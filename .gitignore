@@ -1,0 +1,29 @@
+# ignore cache folder
+/silverstripe-cache/
+
+# ignore all environment files
+_ss_environment.php
+
+# ignore build tools
+/tools/phing-metadata
+
+# ignore composer vendor folder
+/vendor/
+/silvershop/
+/silvershop-discounts/
+/silvershop-geocoding/
+/silvershop-shipping/
+/siteconfig/
+/sqlquerylist/
+/versioned-gridfield/
+/reports/
+/omnipay/
+/listorder/
+/hasonefield/
+/gridfieldextensions/
+/googlemapfield/
+/framework/
+/cms/
+/email-helpers/
+/assets/
+/listsorter/
